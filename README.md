@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Kauã Cardoso
 
 
-- 🧑🏾‍💻 Ui/Ux Designer e Front-End Developer
-- 🌱 Estudando ADS pela Estácio De Sá
+- 🧑🏾‍💻 Estudante em Ui/Ux Designer e Front-End
+- 🌱 Ciencia da computação
 - 📫 Florianópolis, Santa Catarina - Brasil
 - 👤 Pronouns: ele/dele
 
